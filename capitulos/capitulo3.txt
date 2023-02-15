@@ -1,1 +1,1 @@
-Git permite la creación de ramas lo que permite tener distintaas versiones del mismo proyecto y trabajar de manera silmuntanea en ellas.
+Git permite la creación de ramas lo que permite tener distintas versiones del mismo proyecto y trabajar de manera silmultanea en ellas.
